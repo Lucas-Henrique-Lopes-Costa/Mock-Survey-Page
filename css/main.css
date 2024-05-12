@@ -57,7 +57,7 @@ html {
 body {
   font-family: 'Nunito', sans-serif;
   background: var(--light);
-  background: linear-gradient(0deg, #f8f9fa 90%, rgba(236, 240, 241, 0) 97%, rgba(236, 240, 241, 0) 100%), url(https://res.cloudinary.com/bobbymaru/image/upload/v1604928350/Survey%20form/mountains-bg_dxkl4u.png);
+  /* background: linear-gradient(0deg, #f8f9fa 90%, rgba(236, 240, 241, 0) 97%, rgba(236, 240, 241, 0) 100%), url(https://res.cloudinary.com/bobbymaru/image/upload/v1604928350/Survey%20form/mountains-bg_dxkl4u.png); */
   background-repeat: no-repeat, no-repeat;
   color: var(--dark);
   font-size: 1.2rem;
